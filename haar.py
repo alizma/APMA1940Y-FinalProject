@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def haar(x, i, J):
     if i == 1:
         m = k = 0

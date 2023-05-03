@@ -1,5 +1,7 @@
 import numpy as np 
 
+from numba import jit
+
 
 def pi2(x, i, J): 
     if i == 1: 
