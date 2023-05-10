@@ -1,2 +1,2 @@
 # APMA1940Y-FinalProject
-Simple Wavelet-Galerkin Methods
+A simple wavelet collocation method for solving second-order ODEs. Examples provided for non-linear and stiff IVPs.
